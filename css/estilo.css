@@ -60,7 +60,7 @@ color: rgb(0, 0, 0);}
 
 /*------------------secao03-----------------------*/
 .div003{
-    background-image: url(/img/fundo.jpg);
+    background-image: url(../img/fundo.jpg);
     background-size:cover;
     height: 250px;
     background-repeat: no-repeat;
