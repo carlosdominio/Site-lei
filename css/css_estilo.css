@@ -1,0 +1,94 @@
+*{
+    margin: 0 auto;
+    font-family: 'Fredoka', sans-serif;
+
+}
+
+/*------------------menu----------*/
+.menu{
+
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    margin: 0 auto;
+}
+.menu p{
+
+    text-align: left;
+    padding: 10px 10px; 
+    margin-left: 200px;  
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/*------------------baner----------*/
+.banner{
+    background-image:url('/img/capa.jpg');
+    min-height: 500px;
+    background-size: cover;
+    text-align: right;
+   
+}
+
+.texto{
+padding-right: 150px;
+text-align: right;
+padding-top: 90px;
+color: rgb(0, 0, 0);
+font-size: 25px;
+}
+
+/*-----------------secao 02------------------------*/
+.div002{
+    background-color: rgb(255, 255, 255);
+    height: 350px;
+    text-align:left;
+padding-top: 50px;
+color: rgb(0, 0, 0);}
+
+.div002 div{
+    width: 805px;
+
+}
+.div002 div h2,p, img {
+    padding-bottom: 18px;
+}
+
+.div002 div h3{
+    border-left: 5px solid rgb(120, 120, 120);
+    padding-left: 10px;
+}
+
+/*------------------secao03-----------------------*/
+.div003{
+    background-image: url(/img/fundo.jpg);
+    background-size:cover;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+
+}
+.div003 h3 span{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 30px;
+
+}
+
+.div003 h3 {
+    text-align: center;
+    padding: 90px 90px;
+
+}
+
+/*------------------secao04-----------------------*/
+.div004 h4,li {
+    padding: 8px;
+
+}
+.div005{
+    height: 200px;
+}
