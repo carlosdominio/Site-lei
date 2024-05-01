@@ -22,7 +22,7 @@
 
 /*------------------baner----------*/
 .banner{
-    background-image:url('img/capa.jpg');
+    background-image:url(/img/capa.jpg);
     min-height: 500px;
     background-size: cover;
     text-align: right;
